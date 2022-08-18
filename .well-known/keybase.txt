@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/sixofclubs
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dreamtables.net
+  * I am sixofclubs (https://keybase.io/sixofclubs) on keybase.
+  * I have a public key ASDE4wwAXyUwVDRJWLr4BWqrMZU7wutzl7Hvo1WKP6pY4wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c4e30c005f253054344958baf8056aab31953bc2eb7397b1efa3558a3faa58e30a",
+      "host": "keybase.io",
+      "kid": "0120c4e30c005f253054344958baf8056aab31953bc2eb7397b1efa3558a3faa58e30a",
+      "uid": "39df4f49f2db68e17a2b335254912119",
+      "username": "sixofclubs"
+    },
+    "merkle_root": {
+      "ctime": 1660843756,
+      "hash": "475d298de5b98de36e95891417c7de1444aa09d4f2dca7281f458c50658cc3914d77e4a677ac0c8649fd523c3c1bddf6545b1a6279f1de0596a6ec0f1cae0b41",
+      "hash_meta": "e0536aa6342391cead8c522572ae077ee1e4f81005e69adbd85dae530744d237",
+      "seqno": 23047163
+    },
+    "service": {
+      "entropy": "VS+XQ6n79GezYubZEJlmL2qa",
+      "hostname": "dreamtables.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1660843774,
+  "expire_in": 504576000,
+  "prev": "81b5343f2ad4ddd675a5f826ba9630db9a6a8d561046a5be1941b5b08b8ee943",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgxOMMAF8lMFQ0SVi6+AVqqzGVO8Lrc5ex76NVij+qWOMKp3BheWxvYWTESpcCDsQggbU0PyrU3dZ1pfgmupYw25pqjVYQRqW+GUG1sIuO6UPEIDytOen4tttvL4rbK++zgmk5IvyKtKT23BHJdlHNVOq2AgHCo3NpZ8RALLtxjv6XngpigoWjwpjE2DHk+4lI6SgrqyEM/SQ8F8P/HWe2DvbnQ7bB/HVfGw4es9MXFIBF3n3TUiUZUczNBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMwP1wLun+BNQ8Wau3bR353hfXpTSxaiNKHiviKdfZino3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sixofclubs
+
+==================================================================
